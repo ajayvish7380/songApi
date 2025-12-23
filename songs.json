@@ -1,30 +1,30 @@
 [
   {
     "id": 1,
-    "title": "Online Song 1",
+    "title": "Awaara song (Tere ishq me)",
     "artist": "Unknown Artist",
     "streamURL": "https://ia601600.us.archive.org/20/items/whats-app-audio-2025-12-23-at-12.16.07-pm-2_202512/WhatsApp-Audio-2025-12-23-at-12.16.07-PM-2.mp3",
     "imageURL": "https://picsum.photos/300?random=1"
   },
   {
     "id": 2,
-    "title": "Online Song 2",
+    "title": "chal tere ishq me",
     "artist": "Unknown Artist",
-    "streamURL": "https://archive.org/download/testmp3testfile/mpthreetest.mp3",
+    "streamURL": "https://archive.org/details/chal-tere-ishq-me",
     "imageURL": "https://picsum.photos/300?random=2"
   },
   {
     "id": 3,
-    "title": "Online Song 3",
-    "artist": "Unknown Artist",
-    "streamURL": "https://archive.org/download/testmp3testfile/mpthreetest.mp3",
+    "title": "Haseen (talwinder singh)",
+    "artist": "talwinder singh",
+    "streamURL": "https://archive.org/details/haseen-song",
     "imageURL": "https://picsum.photos/300?random=3"
   },
   {
     "id": 4,
-    "title": "Online Song 4",
+    "title": "sakira",
     "artist": "Unknown Artist",
-    "streamURL": "https://archive.org/download/testmp3testfile/mpthreetest.mp3",
+    "streamURL": "https://archive.org/details/sakira_202512",
     "imageURL": "https://picsum.photos/300?random=4"
   },
   {
