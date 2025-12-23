@@ -1,20 +1,58 @@
 [
   {
     "id": 1,
-    "title": "Sample Song 1",
-    "artist": "Unknown",
-    "streamURL": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    "title": "Online Song 1",
+    "artist": "Unknown Artist",
+    "streamURL": "https://drive.google.com/file/d/1_LOikxx3HMuPCNdvgG9ZpHySHNd1i8jj/view",
+    "imageURL": "https://picsum.photos/300?random=1"
   },
   {
     "id": 2,
-    "title": "Sample Song 2",
-    "artist": "Unknown",
-    "streamURL": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    "title": "Online Song 2",
+    "artist": "Unknown Artist",
+    "streamURL": "https://drive.google.com/file/d/1db0vDCFGpRzNxSGpJ2azjSs06n6nn_HQ/view",
+    "imageURL": "https://picsum.photos/300?random=2"
   },
   {
     "id": 3,
-    "title": "Sample Song 3",
-    "artist": "Unknown",
-    "streamURL": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_7c0a4f0d60.mp3"
+    "title": "Online Song 3",
+    "artist": "Unknown Artist",
+    "streamURL": "https://drive.google.com/file/d/13IIixka6ywpllzNvV2uai1vR_Jw_LbQU/view",
+    "imageURL": "https://picsum.photos/300?random=3"
+  },
+  {
+    "id": 4,
+    "title": "Online Song 4",
+    "artist": "Unknown Artist",
+    "streamURL": "https://drive.google.com/file/d/1w4qn9D7l757ZN2xGkPd0oxz4nTQ1CuVf/view",
+    "imageURL": "https://picsum.photos/300?random=4"
+  },
+  {
+    "id": 5,
+    "title": "Online Song 5",
+    "artist": "Unknown Artist",
+    "streamURL": "https://drive.google.com/file/d/18kxakSLExfktUc_ncxF5YvrTTjy78IqA/view",
+    "imageURL": "https://picsum.photos/300?random=5"
+  },
+  {
+    "id": 6,
+    "title": "Online Song 6",
+    "artist": "Unknown Artist",
+    "streamURL": "https://drive.google.com/file/d/1iw7dyERJYRWFIy_S005w5LfMQczx9j4z/view",
+    "imageURL": "https://picsum.photos/300?random=6"
+  },
+  {
+    "id": 7,
+    "title": "Online Song 7",
+    "artist": "Unknown Artist",
+    "streamURL": "https://drive.google.com/file/d/12tCZWqJCVN9ecGQgHR9-7HKHkbnTKBnS/view",
+    "imageURL": "https://picsum.photos/300?random=7"
+  },
+  {
+    "id": 8,
+    "title": "Online Song 8",
+    "artist": "Unknown Artist",
+    "streamURL": "https://drive.google.com/file/d/1_6XuQr7E0PWstI4uLb9gNaNOKgXzxKL4/view",
+    "imageURL": "https://picsum.photos/300?random=8"
   }
 ]
