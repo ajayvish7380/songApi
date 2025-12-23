@@ -3,56 +3,56 @@
     "id": 1,
     "title": "Online Song 1",
     "artist": "Unknown Artist",
-    "streamURL": "https://drive.google.com/uc?export=download&id=1_LOikxx3HMuPCNdvgG9ZpHySHNd1i8jj",
+    "streamURL": "https://archive.org/download/testmp3testfile/mpthreetest.mp3",
     "imageURL": "https://picsum.photos/300?random=1"
   },
   {
     "id": 2,
     "title": "Online Song 2",
     "artist": "Unknown Artist",
-    "streamURL": "https://drive.google.com/uc?export=download&id=1db0vDCFGpRzNxSGpJ2azjSs06n6nn_HQ",
+    "streamURL": "https://archive.org/download/testmp3testfile/mpthreetest.mp3",
     "imageURL": "https://picsum.photos/300?random=2"
   },
   {
     "id": 3,
     "title": "Online Song 3",
     "artist": "Unknown Artist",
-    "streamURL": "https://drive.google.com/uc?export=download&id=13IIixka6ywpllzNvV2uai1vR_Jw_LbQU",
+    "streamURL": "https://archive.org/download/testmp3testfile/mpthreetest.mp3",
     "imageURL": "https://picsum.photos/300?random=3"
   },
   {
     "id": 4,
     "title": "Online Song 4",
     "artist": "Unknown Artist",
-    "streamURL": "https://drive.google.com/uc?export=download&id=1w4qn9D7l757ZN2xGkPd0oxz4nTQ1CuVf",
+    "streamURL": "https://archive.org/download/testmp3testfile/mpthreetest.mp3",
     "imageURL": "https://picsum.photos/300?random=4"
   },
   {
     "id": 5,
     "title": "Online Song 5",
     "artist": "Unknown Artist",
-    "streamURL": "https://drive.google.com/uc?export=download&id=18kxakSLExfktUc_ncxF5YvrTTjy78IqA",
+    "streamURL": "https://archive.org/download/testmp3testfile/mpthreetest.mp3",
     "imageURL": "https://picsum.photos/300?random=5"
   },
   {
     "id": 6,
     "title": "Online Song 6",
     "artist": "Unknown Artist",
-    "streamURL": "https://drive.google.com/uc?export=download&id=1iw7dyERJYRWFIy_S005w5LfMQczx9j4z",
+    "streamURL": "https://archive.org/download/testmp3testfile/mpthreetest.mp3",
     "imageURL": "https://picsum.photos/300?random=6"
   },
   {
     "id": 7,
     "title": "Online Song 7",
     "artist": "Unknown Artist",
-    "streamURL": "https://drive.google.com/uc?export=download&id=12tCZWqJCVN9ecGQgHR9-7HKHkbnTKBnS",
+    "streamURL": "https://archive.org/download/testmp3testfile/mpthreetest.mp3",
     "imageURL": "https://picsum.photos/300?random=7"
   },
   {
     "id": 8,
     "title": "Online Song 8",
     "artist": "Unknown Artist",
-    "streamURL": "https://drive.google.com/uc?export=download&id=1_6XuQr7E0PWstI4uLb9gNaNOKgXzxKL4",
+    "streamURL": "https://archive.org/download/testmp3testfile/mpthreetest.mp3",
     "imageURL": "https://picsum.photos/300?random=8"
   }
 ]
