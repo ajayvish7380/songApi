@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "WhatsApp Audio 2025",
+    "artist": "Ajay",
+    "streamURL": "https://ia601600.us.archive.org/20/items/whats-app-audio-2025-12-23-at-12.16.07-pm-2_202512/WhatsApp-Audio-2025-12-23-at-12.16.07-PM-2.mp3",
+    "imageURL": "https://picsum.photos/300?random=1"
+  },
+  {
+    "id": 2,
+    "title": "Haseen Song",
+    "artist": "Ajay",
+    "streamURL": "https://archive.org/download/haseen-song/haseen-song.mp3",
+    "imageURL": "https://picsum.photos/300?random=2"
+  },
+  {
+    "id": 3,
+    "title": "Chal Tere Ishq Me",
+    "artist": "Ajay",
+    "streamURL": "https://archive.org/download/chal-tere-ishq-me/chal-tere-ishq-me.mp3",
+    "imageURL": "https://picsum.photos/300?random=3"
+  },
+  {
+    "id": 4,
+    "title": "Sakira",
+    "artist": "Ajay",
+    "streamURL": "https://archive.org/download/sakira_202512/sakira_202512.mp3",
+    "imageURL": "https://picsum.photos/300?random=4"
+  }
+]
